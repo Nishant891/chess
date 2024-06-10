@@ -1,4 +1,4 @@
-# chess - In progress
+# chess
 
 ## My chess website status : 
 
